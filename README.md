@@ -28,5 +28,5 @@ project-root/
 ├── .gitignore
 ├── index.html
 ├── package.json
-└── vite.config.js       # (if using Vite)
+└── vite.config.js      
 ```
