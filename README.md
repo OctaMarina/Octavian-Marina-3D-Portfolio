@@ -5,7 +5,7 @@ This is a personal project built using modern web technologies and hosted with F
 
 ## 🌐 Live Demo
 
-🔗 [View Website]([https://your-firebase-url.web.app](https://octavianmarina.com))  
+🔗 [View Website](https://octavianmarina.com)
 
 ## 🚀 Technologies Used
 
